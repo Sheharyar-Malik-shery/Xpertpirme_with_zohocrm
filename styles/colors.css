@@ -1,0 +1,33 @@
+/* styles/colors.css */
+.bg-btn-primary {
+  background-color: #f29d28; 
+}
+.text-primary {
+  color: #1d4ed8;
+}
+
+.bg-btn-secondry{
+   background-color: #94a3b8; 
+}
+
+.text-secondry-color{
+color:#f29d28
+}
+
+.text-hover-color{
+  color:#f29d28
+}
+
+.bg-secondary {
+  background-color: #9333ea; /* purple-600 */
+}
+.text-secondary {
+  color: #9333ea;
+}
+
+.bg-accent {
+  background-color: #f59e0b; /* amber-500 */
+}
+.text-accent {
+  color: #f59e0b;
+}
